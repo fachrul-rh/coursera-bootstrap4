@@ -2,17 +2,34 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ### _NOTE_
-_cara install/gunakan less_<br>
+_cara install/gunakan less_<br/>
 
 >```
 > npm install -g less
 >```
->masuk ke file css<br>
->cd css<br>
+>masuk ke file css<br/>
+>```
+>cd css
+>```
 >lalu gunakan perintah
 > ```
 > lessc styles.less styles.css
 > ```
-<b>lessc</b> : _perintah untuk compile file .less_ <br>
-<b>styles.less</b> : _ambil file .less_ <br>
-<b>styles.css</b> : _hasil compile file .less menjadi .css_ <br>
+<b>lessc</b> : _perintah untuk compile file .less_ <br/>
+<b>styles.less</b> : _ambil file .less_ <br/>
+<b>styles.css</b> : _hasil compile file .less menjadi .css_ <br/>
+<hr/>
+
+_cara install/gunakan scss_<br>
+
+>```
+> npm install node-scss --save-dev
+>```
+>tambahkan scripts pada package.json
+> ```
+> "scss": "node-sass -o css/ css/"
+> ```
+> compile file .scss dengan .css
+> ```
+> npm run scss
+> ```
