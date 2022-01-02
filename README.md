@@ -7,9 +7,9 @@ _cara install/gunakan less_<br>
 >```
 > npm install -g less
 >```
->masuk ke file css
->cd css
->gunakan perintah
+>masuk ke file css<br>
+>cd css<br>
+>lalu gunakan perintah
 > ```
 > lessc styles.less styles.css
 > ```
