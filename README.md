@@ -16,5 +16,3 @@ _cara install/gunakan less_<br>
 <b>lessc</b> : _perintah untuk compile file .less_ <br>
 <b>styles.less</b> : _ambil file .less_ <br>
 <b>styles.css</b> : _hasil compile file .less menjadi .css_ <br>
-
-
