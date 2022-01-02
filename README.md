@@ -23,7 +23,7 @@ _cara install/gunakan less_<br/>
 _cara install/gunakan scss_<br>
 
 >```
-> npm install node-scss --save-dev
+> npm install node-sass --save-dev
 >```
 >tambahkan scripts pada package.json
 > ```
