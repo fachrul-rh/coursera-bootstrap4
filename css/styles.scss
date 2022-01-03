@@ -74,3 +74,39 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+#loginModal {
+  .close {
+    color: floralwhite;
+  }
+
+  .modal-title {
+    color: floralwhite;
+  }
+
+  .modal-header {
+    background-color: $background-dark;
+  }
+
+  .modal-body {
+    background-color: $background-pale;
+  }
+}
+
+#reserveTable {
+  .close {
+    color: floralwhite;
+  }
+
+  .modal-title {
+    color: floralwhite;
+  }
+
+  .modal-header {
+    background-color: $background-dark;
+  }
+
+  .modal-body {
+    background-color: $background-pale;
+  }
+}
