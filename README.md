@@ -1,6 +1,21 @@
 # coursera-bootstrap4
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
+## cara menjalankan project
+unduh semua dependencies
+  ```
+  npm install
+  ```
+ jalankan project di lokal
+ ```
+ npm run start
+ ```
+ build project
+ ```
+ npm run build
+ ```
+  
+
 ### _NOTE_
 _cara install/gunakan less_<br/>
 
@@ -33,3 +48,10 @@ _cara install/gunakan scss_<br>
 > ```
 > npm run scss
 > ```
+
+### Penting!
+<b> Jangan lupa menginstall module _copyfiles,imagemin-cli_ NPM secara global</b>
+```
+npm -g install copyfiles@2.0.0
+npm -g install imagemin-cli@3.0.0
+```
