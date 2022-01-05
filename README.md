@@ -10,6 +10,9 @@ unduh semua dependencies
  ```
  npm run start
  ```
+ ```
+ grunt
+ ```
  build project
  ```
  npm run build
