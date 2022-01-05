@@ -17,6 +17,9 @@ unduh semua dependencies
  ```
  npm run build
  ```
+ ```
+ grunt build
+ ```
   
 
 ### _NOTE_
