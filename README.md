@@ -53,8 +53,9 @@ _cara install/gunakan scss_<br>
 > ```
 
 ### Penting!
-<b> Jangan lupa menginstall module _copyfiles,imagemin-cli_ NPM secara global</b>
+<b> Jangan lupa menginstall module dibawah ini NPM secara global</b>
 ```
 npm -g install copyfiles@2.0.0
 npm -g install imagemin-cli@3.0.0
+npm install -g grunt-cli@1.2.0
 ```
